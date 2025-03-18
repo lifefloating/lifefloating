@@ -2,7 +2,7 @@
 
 <div align="center">
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Always+learning+new+things&center=true&width=380&height=45">
 </p>
 </div>
 
