@@ -9,8 +9,17 @@
 # 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="400"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true" width="400"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff" width="400"/>
+</picture>
 </div>
 
 # 🛠️ Technologies & Tools
