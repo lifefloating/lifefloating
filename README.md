@@ -10,21 +10,19 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true" width="400"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&card_width=445">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true&card_width=445">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true&card_width=445"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff" width="400"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&card_width=445">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff&card_width=445">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff&card_width=445"/>
 </picture>
 </div>
 
 ## 🛠️ Technologies & Tools
-
-<div align="center">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -51,8 +49,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-5C4FE5?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
-
-</div>
 
 ## 🤝 Connect with Me
 
