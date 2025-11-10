@@ -24,21 +24,41 @@
 
 # 🛠️ Technologies & Tools
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-5C4FE5?style=flat&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
+
 </div>
 
 # 🤝 Connect with Me
 
 <div align="center">
 <a href="mailto:imshuazi@126.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
 </div>
 
