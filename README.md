@@ -6,7 +6,7 @@
 </p>
 </div>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 <picture>
@@ -22,7 +22,7 @@
 </picture>
 </div>
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 </div>
 
-# 🤝 Connect with Me
+## 🤝 Connect with Me
 
 <div align="center">
 <a href="mailto:imshuazi@126.com">
