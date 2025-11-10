@@ -23,6 +23,8 @@
 
 ## 🛠️ Technologies & Tools
 
+<div align="center">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,6 +50,8 @@
 ![Claude](https://img.shields.io/badge/-Claude-5C4FE5?style=flat&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-412991?style=flat&logo=openai&logoColor=white)
+
+</div>
 
 ## 🤝 Connect with Me
 
