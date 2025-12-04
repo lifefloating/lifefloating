@@ -7,7 +7,6 @@
 
 <div align="center">
 
-  <!-- 主 Stats 卡片 -->
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -22,7 +21,6 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Top Languages 卡片（圆环更好看） -->
   <picture>
     <source 
       media="(prefers-color-scheme: dark)" 
@@ -36,9 +34,6 @@
   </picture>
 
   <br/><br/>
-
-  <!-- 访问量统计（可选） -->
-  <img src="https://visitcount.itsvg.in/api?id=lifefloating&icon=6&color=0" alt="Visitors" height="28"/>
 
 </div>
 
