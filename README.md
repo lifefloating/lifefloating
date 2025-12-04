@@ -30,7 +30,6 @@
     <img height="195"
       src="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=default&hide_border=true&count_private=true">
   </picture>
-
 </div>
 
 ## 🛠️ Technologies & Tools
