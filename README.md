@@ -6,19 +6,17 @@
 </p>
 </div>
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Streak Stats
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api?username=lifefloating&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true">
-    <img align="center" src="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true" height="180"/>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=radical&hide_border=true&background=0D1117&ring=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&stroke=00000000&count_private=true">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=default&hide_border=true&count_private=true">
+    <img height="195"
+      src="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=default&hide_border=true&count_private=true">
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
-    <img align="center" src="https://github-readme-stats-m14p0e4xn-lifefloatings-projects.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff" height="180"/>
-  </picture>
+
 </div>
 
 ## 🛠️ Technologies & Tools
