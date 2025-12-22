@@ -21,17 +21,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=radical&hide_border=true&background=0D1117&ring=FFFFFF&fire=FF6B6B&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=CCCCCC&stroke=00000000&count_private=true">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=default&hide_border=true&count_private=true">
-    <img height="195"
-      src="https://github-readme-streak-stats.herokuapp.com?user=lifefloating&theme=default&hide_border=true&count_private=true">
-  </picture>
-</div>
-
 ## 🛠️ Technologies & Tools
 
 <div align="center">
