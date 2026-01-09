@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋 Hi There
 
 <div align="center">
 <p>
@@ -7,6 +7,9 @@
 </div>
 
 ## 📊 GitHub Stats
+
+- :octocat: [Recent Activity](https://github.com/search?q=is%3Apublic+involves%3Alifefloating&type=issues&s=created&o=desc)
+- 📦 [My Repositories](https://github.com/lifefloating?tab=repositories)
 
 <div align="center">
   <picture>
