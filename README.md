@@ -19,7 +19,7 @@
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lifefloating&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=transparent">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=lifefloating&langs_count=5&theme=transparent">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff" height="180"/>
   </picture>
 </div>
