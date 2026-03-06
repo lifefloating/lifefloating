@@ -18,7 +18,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=lifefloating&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&count_private=true" height="180"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lifefloating&custom_title=My%20Github%20stats&show_icons=true&include_all_commits=true&theme=transparent">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lifefloating&layout=compact&theme=default&hide_border=true&bg_color=ffffff" height="180"/>
   </picture>
